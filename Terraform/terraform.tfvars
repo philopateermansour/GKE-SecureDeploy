@@ -1,0 +1,7 @@
+project_id = "level-agent-460100-t6"
+region = "us-central1"
+zone = "us-central1-a"
+machine_type = "e2-medium"
+cluster_name = "philopater-gke-cluster"
+cluster_location = "us-central1-b"
+node_pool_name = "philopater-node-pool"
